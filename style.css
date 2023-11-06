@@ -1,0 +1,94 @@
+.titre2{
+   text-align: center;
+   font-size: 200px;
+   margin-right: auto;
+   color: blue;
+   font-family: 'Kaushan Script', cursive;
+}
+
+.flex{
+    display: flex;
+    justify-content: left;
+    font-size: 50px;
+}
+
+.qualité-perso{
+    font-family: 'Kaushan Script', cursive;
+    padding-left: 80px;
+}
+
+.responsabilités{
+    width: 70px;
+}
+
+.autonomie{
+    width: 70px;
+}
+
+.adaptation{
+    width: 70px;
+}
+
+.tech{
+    width: 70px;
+}
+
+.relation{
+    width: 70px;
+}
+
+.prenom{
+    background-color: aqua;
+    border-radius: 20px;
+   justify-content: space-evenly;
+}
+
+boite-rouge{
+    background-color: red;
+    width: 80px;
+    text-align: center;
+    font-size: 80px;
+}
+
+.snu{
+    width: 80px;
+ justify-content: center;
+   
+}
+
+.carte{
+border: solid 1px black;
+width: 300px;
+
+
+
+
+}
+
+.bouton{
+   font-size: 60px;
+  
+
+}
+
+.titre{
+    font-size: 200px;
+    color: blue;
+    font-family: 'Kaushan Script', cursive;
+}
+
+
+
+
+
+.afpa{
+    width: 80px;
+}
+
+.liste-1{
+    font-size: 16px;
+}
+
+.liste-2{
+    font-size: 16px;
+}
